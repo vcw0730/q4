@@ -1,3 +1,3 @@
-Hello world, everything in the CS50 Appliance finally works!!!! (I think)
+Hello world, everything in my CS50 Appliance finally works!!!! (I think)
 
 - Victor
